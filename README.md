@@ -1,4 +1,5 @@
 # FrotaIA — Classificação Inteligente do Estado de Conservação de Frota
+![FrotaIA — Capa do projeto](assets/frotaia-capa.png)
 
 ## 1. Descrição do projeto
 
